@@ -28,3 +28,4 @@ Description
 ## Resources
 - **Free Code Camp:** [Create a Discord Bot with Python](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
 - **Write Bots:** [How to Make a Discord Bot in 2023](https://www.writebots.com/how-to-make-a-discord-bot/)
+- **Commands API:**[How to Make Discord Bot Commands in Python](https://betterprogramming.pub/how-to-make-discord-bot-commands-in-python-2cae39cbfd55)

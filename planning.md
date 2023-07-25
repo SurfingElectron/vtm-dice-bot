@@ -8,10 +8,10 @@
 - Install discord.py (easy enough with pip install) ✔️
 
 ## Respond to basic commands
-- Start off with acknowledging a dice roll command
+- Start off with acknowledging a dice roll command ✔️
 
 ## Respond to dice rolling requests
-- Roll a requested number of d10s and and report the results
+- Roll a requested number of d10s and and report the results ✔️
 
 ## Difficulty
 - User inputs the difficulty, bot reports number of dice which equal or surpass it (aka, how many successes)
